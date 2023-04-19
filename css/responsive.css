@@ -1,0 +1,374 @@
+@media (max-width: 1566px) {
+    .navbar-expand-lg .navbar-nav {
+        width: 85%;
+    }
+    section.homepage .home-left .innerleft-home h2 {
+        font-size: 40px;
+        line-height: 51px;
+    }
+    section.Services .container-fluid {
+        padding-inline: 117px;
+    }
+
+    .contact::after {
+        width: 63%;
+
+    }
+    section.homepage .home-left .innerleft-home {
+
+        padding-left: 31px;
+    }
+}
+
+@media (max-width: 1366px) {
+    section.homepage .home-left .innerleft-home h2 {
+        font-size: 39px;
+        line-height: 54px;
+    }
+
+    section.homepage .home-left .innerleft-home {
+        padding-left: 34px;
+    }
+    .hero-premium__scroll {
+        font-size: 13px;
+        left: 43%;
+    }
+    section.Services .container-fluid {
+        padding-inline: 66px;
+    }
+
+    section.facilities .main-facilities .image-facilities img {
+        width: 100%;
+    }
+
+    div#departments .img-block {
+        width: 48%;
+    }
+
+    div#departments .img-block img {
+        width: 100%;
+    }
+
+    .contact::after {
+        width: 62%;
+        height: 82%;
+    }
+
+    .navbar-expand-lg .navbar-nav {
+        width: 81%;
+    }
+}
+
+@media (max-width: 1199px) {
+    section.homepage .home-left .innerleft-home h2 {
+        font-size: 31px;
+        line-height: 41px;
+    }
+    .hero-premium__scroll {
+        font-size: 13px;
+        left: 50%;
+    }
+    section.homepage .home-left .innerleft-home p {
+        font-size: 21px;
+        color: white;
+        margin-top: 0rem;
+    }
+
+    section.homepage .home-left .innerleft-home .btn-home {
+        margin-top: 1rem;
+    }
+
+    section.Services .container-fluid {
+        padding-inline: 0px;
+    }
+
+    div#departments .container .content-block p {
+        font-size: 15px;
+    }
+
+    section.Services .main-Services .left-services .left-head h2 {
+        color: #568480;
+        font-size: 40px;
+    }
+
+    .contact::after {
+        display: none;
+    }
+
+    .contact .main-contact .form {
+        width: 52%;
+        background: white;
+        padding: 50px 30px;
+        border-radius: 10px;
+    }
+
+    .navhead .navbar .nav-item a {
+        font-size: 15px;
+        margin-right: 25px;
+    }
+
+    .navbar-expand-lg .navbar-nav {
+        width: 77%;
+    }
+
+    .navhead .navbar {
+        padding: 3px 3px;
+    }
+}
+
+@media (max-width: 991px) {
+    section.homepage .home-left {
+        float: left;
+        width: 100%;
+    }
+
+    .hero-premium__scroll {
+        font-size: 13px;
+        left: 0;
+        top: -37%;
+    }
+    form.d-flex {
+        width: 100%;
+        text-align: center;
+        display: flex;
+        margin-bottom: 20px;
+        justify-content: center;
+    }
+    .navhead .navbar .nav-item a {
+        font-size: 15px;
+        margin-right: 0;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #d9d9d9;
+    }
+    section.homepage .home-right {
+        float: left;
+        width: 100%;
+    }
+    .navhead .navbar .nav-item a {
+        font-size: 15px;
+        margin-right: 0;
+        margin-bottom: 21px;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .navbar-nav .nav-item {
+        width: 100%;
+    }
+    .navbar-expand-lg .navbar-nav {
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    section.homepage .container-fluid {
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        flex-direction: column-reverse;
+    }
+
+    section.homepage .home-left .innerleft-home {
+        align-items: center;
+        padding: 30px;
+    }
+
+    section.Services .main-Services {
+        flex-direction: column;
+    }
+
+    section.Services .main-Services .left-services {
+        width: 100%;
+        margin-bottom: 7rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    section.Services .main-Services .right-services .divadation .devide-left {
+        width: 100%;
+    }
+
+    section.Services .main-Services .right-services .divadation .devide-right {
+        width: 100%;
+    }
+
+    section.Services .main-Services .right-services {
+        width: 100%;
+    }
+
+    section.facilities {
+        padding: 50px 0px;
+
+    }
+
+    div#mamber .container .content-block {
+        width: 100%;
+    }
+
+    div#mamber .img-block {
+        width: 100%;
+    }
+
+    div#mamber .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    div#departments .container {
+        flex-direction: column-reverse;
+    }
+
+    div#departments .container .content-block {
+        width: 100%;
+    }
+    .contact .main-contact .form {
+        width: 66%;
+
+    }
+    
+    
+    div#departments .img-block {
+        width: 100%;
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width: 767px) {
+section.homepage .home-left .innerleft-home h2 {
+    font-size: 28px;
+    line-height: 38px;
+}
+section.Services {
+    padding: 10px 0px 0px 10px;
+}
+section.Services .main-Services .left-services .left-head h2 {
+    color: #568480;
+    font-size: 30px;
+}
+section.Services .main-Services .left-services .left-head hr {
+    margin: 1rem 0;
+    width: 9%;
+    color: inherit;
+    border: 3px solid #568480;
+    border-top: 0;
+    opacity: 1;
+}
+section.Services .main-Services .left-services .left-head p {
+    font-size: 17px;
+    line-height: 32px;
+}
+section.facilities .main-facilities .head-facilities h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+section.facilities .main-facilities .head-facilities h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+section.facilities .main-facilities .head-facilities h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+section.facilities .main-facilities .head-facilities p {
+    font-size: 17px;
+    margin-bottom: 2rem;
+}
+div#mamber .container .content-block h2 {
+    font-size: 30px;
+}
+div#mamber .img-block img {
+    width: 100%;
+}
+.contact .main-contact .form {
+    width: 100%;
+}
+footer .top-footer .col-md-4 {
+    width: 70%;
+}
+
+footer .top-footer .col-md-3 {
+    width: 30%;
+}
+.carousel-control-prev-icon img {
+    width: 100%;
+}
+.carousel-control-next-icon img {
+    width: 100%;
+}
+section.Services .main-Services .right-services .divadation {
+    float: left;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+section.facilities .main-facilities .image-facilities .ck2{
+    display: block;
+}
+section.facilities .main-facilities .image-facilities .ck1{
+    display: none;
+}
+section.facilities .main-facilities .image-facilities {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+section.facilities .main-facilities .image-facilities img {
+    width: 61%;
+    text-align: center;
+}
+}
+
+@media (max-width: 567px) {
+    section.homepage .carousel-control-next, .carousel-control-prev {
+        bottom: -16px;
+  
+    }
+    section.homepage .home-left .innerleft-home h2 {
+        font-size: 28px;
+        text-align: center;
+    }
+    section.homepage .home-left .innerleft-home p {
+        font-size: 20px;
+        color: white;
+        margin-top: 0rem;
+        text-align: center;
+    }
+    section.homepage .home-left .innerleft-home {
+        align-items: center;
+        padding: 30px 5px;
+    }
+    footer .bottom-footer .container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    footer .bottom-footer .copy-text {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .contact .form-main form h2 {
+        font-size: 30px;
+    }
+    .feedback-sec .feeback-block {
+        padding: 27px;}
+    .icons {
+        justify-content: center;
+    }
+    .feedback-sec {
+         height: auto;
+        padding: 50px 0px;
+    }
+    section.facilities::after {
+        width: 57%;
+       
+    }
+}
