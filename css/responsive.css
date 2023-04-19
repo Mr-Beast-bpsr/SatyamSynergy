@@ -114,6 +114,10 @@
     .navhead .navbar {
         padding: 3px 3px;
     }
+    
+    section.submit .container .main-submit .inner {
+        width: 91%;}
+      
 }
 
 @media (max-width: 991px) {
@@ -121,11 +125,18 @@
         float: left;
         width: 100%;
     }
-
+    section.submit .container .main-submit .inner {
+        width: 100%;
+    }
     .hero-premium__scroll {
         font-size: 13px;
         left: 0;
         top: -37%;
+    }
+    section.submit .container .main-submit .inner .text-part h2 {
+        font-size: 68px;
+        font-weight: 700;
+        letter-spacing: 7px;
     }
     form.d-flex {
         width: 100%;
@@ -248,6 +259,18 @@ section.Services .main-Services .left-services .left-head h2 {
     color: #568480;
     font-size: 30px;
 }
+section.submit .container .main-submit .inner .text-part h2 {
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+section.submit .container .main-submit .inner .text-part p {
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+section.submit .container .main-submit .inner {
+    padding: 10px;}
 section.Services .main-Services .left-services .left-head hr {
     margin: 1rem 0;
     width: 9%;
@@ -371,4 +394,23 @@ section.facilities .main-facilities .image-facilities img {
         width: 57%;
        
     }
+    section.submit {
+        padding: 100px 0px;
+        height: auto;
+    }
+    section.submit .container .main-submit .inner {
+        padding: 10px;
+        margin-bottom: 0;
+    }
+    section.submit .container .main-submit .inner .text-part h2 {
+        font-size: 37px;
+        font-weight: 700;
+        letter-spacing: 5px;
+    }
+    section.submit .container .main-submit .inner .text-part p {
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: 0px;
+    }
+    
 }
